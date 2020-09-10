@@ -58,6 +58,6 @@ public class FlatMapExample {
 			return t.isAfter(u)? t:u;
 		}
 	});
-	System.out.println("값 : " + result2);
+	System.out.println("값 : " + result2.get());
 	}
 }
