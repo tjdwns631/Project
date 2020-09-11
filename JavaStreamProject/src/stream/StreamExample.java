@@ -16,7 +16,6 @@ public class StreamExample {
 			String str = iter.next();
 			System.out.println(str.toString());
 		}
-		//허성준바보야 이거못찾으면 공부안한거다 똥깨야
 		//스트림 => 내부반복자
 //		System.out.println("내부반복자 사용");
 //		Stream<String> streams = users.stream();
